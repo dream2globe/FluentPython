@@ -1,6 +1,6 @@
 # FluentPython
 
-This repository includes the sample files in Fleunt Python(book) written by Luciano Ramalho. Each file was typed in order to practice python privatedly
+This repository includes the examples in Fluent Python(book) written by Luciano Ramalho. Each file was typed in order to practice python privatedly
 
 The execution environment is as follows.
 <ol>
