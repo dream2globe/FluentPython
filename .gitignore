@@ -33,3 +33,5 @@
 
 # Folder
 .ipynb_checkpoints/
+downloads/
+__pycache__/
